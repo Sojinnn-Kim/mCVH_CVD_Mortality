@@ -1,14 +1,11 @@
 # Family History of Cardiovascular Disease, Cardiovascular Health, and CVD Mortality
 
-[![Journal](https://img.shields.io/badge/Journal-American%20Journal%20of%20Preventive%20Medicine-blue)](https://www.ajpmonline.org/)
-
 ## Overview
 
 This repository provides the R code used in the following study:
 
 > **Family history of cardiovascular disease, cardiovascular health, and CVD mortality: a population-based cohort study of young and middle-aged Korean adults**  
 > Sujeong Shin†\*, Sojin Kim†, Yoosoo Chang, Eunju Sung, Jae-Heon Kang\*  
-> *American Journal of Preventive Medicine* (under review).  
 > † These authors contributed equally to this work.  
 > Corresponding authors: Sujeong Shin (sj1115.shin@samsung.com), Jae-Heon Kang (jaeheon.kang@samsung.com)
 
@@ -133,4 +130,4 @@ S.S. and S.K. conceptualized the study and designed the methodology. S.K. perfor
 
 ## Citation
 
-> Shin S†, Kim S†, Chang Y, Sung E, Kang JH. Family history of cardiovascular disease, cardiovascular health, and CVD mortality: a population-based cohort study of young and middle-aged Korean adults. *Am J Prev Med* (under review).
+> Shin S†, Kim S†, Chang Y, Sung E, Kang JH. Family history of cardiovascular disease, cardiovascular health, and CVD mortality: a population-based cohort study of young and middle-aged Korean adults. (under review).
